@@ -1,0 +1,58 @@
+Variáveis:
+
+1. Declarando uma variável e exibindo no console:
+
+ let nome = &quot;Gabriela&quot;
+ console.log(nome)
+
+2. Declarando um número e exibindo no console:
+
+ let idade = 16
+ console.log(idade)
+
+3. Criando uma variável booleana:
+
+ let aprendendoJavaScript = true
+ console.log(aprendendoJavaScript)
+
+4. Concatenando strings:
+
+ let nome = &quot;Gabriela&quot;
+ let sobrenome = &quot;Aquilera&quot;
+ let nomecompleto = &quot;Gabriela Aquilera&quot;
+ console.log(nomecompleto)
+
+5. Somando dois números:
+ let numero1= 200
+ let numero2= 100
+ let soma = numero1 + numero2
+
+ console.log(soma)
+
+6. Multiplicando dois números:
+
+ let numero1 = 20
+ let numero2 = 40
+ console.log (numero1 * numero2)
+ 800
+
+7. Variável de texto e número:
+
+ let cidade = &quot;São Paulo&quot;
+ let habitantes = 12000000
+ console.log(&quot;Cidade:&quot;, cidade)
+ console.log(&quot;Número de habitantes:&quot;, habitantes)
+
+8. Alterando o valor de uma variável
+ let numero1 = 100
+ numero1 += 130
+ console.log(numero1)
+
+9. Criando uma variável sem valor (undefined):
+
+ let meuValor
+ console.log(&quot;Valor da variável”)
+10. Criando um valor null:
+
+ let meuNulo = null
+ console.log(&quot;Valor da variável:&quot;, meuNulo)
